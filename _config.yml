@@ -1,0 +1,6 @@
+title: Israel
+logo: asset/image/profile_pic.png
+show_downloads: True
+remote_themes: pages-theme/minimal@vo2.0
+plugins:
+Jekky11-remote-themes 
